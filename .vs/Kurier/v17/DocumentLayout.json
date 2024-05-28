@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\kurier\\controller\\parceltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\controller\\parceltypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|c:\\users\\students-1212-2\\desktop\\nikol11d\\kurier\\kurier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|c:\\users\\students-1212-2\\desktop\\nikol11d\\kurier\\kurier\\migrations\\202405280706509_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\migrations\\202405280706509_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|c:\\users\\students-1212-2\\desktop\\nikol11d\\kurier\\kurier\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\kurier\\model\\parceldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\model\\parceldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\kurier\\model\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\model\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\kurier\\model\\parceltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\model\\parceltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\kurier\\controller\\parcelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\controller\\parcelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\kurier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\kurier\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87976445-ECD0-4C38-955C-C23587613705}|Kurier\\Kurier.csproj|solutionrelative:kurier\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 216,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Form1.cs",
+              "RelativeDocumentMoniker": "Kurier\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Form1.cs [Design]*",
+              "RelativeToolTip": "Kurier\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:57:40.742Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Form1.cs",
+              "RelativeDocumentMoniker": "Kurier\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Form1.cs*",
+              "RelativeToolTip": "Kurier\\Form1.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:51:36.686Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202405280706509_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Migrations\\202405280706509_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Kurier\\Migrations\\202405280706509_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Migrations\\202405280706509_InitialMigration.cs",
+              "RelativeToolTip": "Kurier\\Migrations\\202405280706509_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:06:57.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Kurier\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Kurier\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:06:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParcelTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Controller\\ParcelTypeController.cs",
+              "RelativeDocumentMoniker": "Kurier\\Controller\\ParcelTypeController.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Controller\\ParcelTypeController.cs*",
+              "RelativeToolTip": "Kurier\\Controller\\ParcelTypeController.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:28:19.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Parcel.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Model\\Parcel.cs",
+              "RelativeDocumentMoniker": "Kurier\\Model\\Parcel.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Model\\Parcel.cs",
+              "RelativeToolTip": "Kurier\\Model\\Parcel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:58:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParcelType.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Model\\ParcelType.cs",
+              "RelativeDocumentMoniker": "Kurier\\Model\\ParcelType.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Model\\ParcelType.cs",
+              "RelativeToolTip": "Kurier\\Model\\ParcelType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:59:51.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParcelController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Controller\\ParcelController.cs",
+              "RelativeDocumentMoniker": "Kurier\\Controller\\ParcelController.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Controller\\ParcelController.cs",
+              "RelativeToolTip": "Kurier\\Controller\\ParcelController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:52:45.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParcelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Model\\ParcelDbContext.cs",
+              "RelativeDocumentMoniker": "Kurier\\Model\\ParcelDbContext.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\Model\\ParcelDbContext.cs",
+              "RelativeToolTip": "Kurier\\Model\\ParcelDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:00:40.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\App.config",
+              "RelativeDocumentMoniker": "Kurier\\App.config",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-2\\Desktop\\Nikol11d\\Kurier\\Kurier\\App.config",
+              "RelativeToolTip": "Kurier\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-21T07:02:49.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

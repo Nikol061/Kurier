@@ -1,0 +1,17 @@
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\bin\Debug\Kurier.exe.config
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\bin\Debug\Kurier.exe
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\bin\Debug\Kurier.pdb
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.Form1.resources
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.Properties.Resources.resources
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.csproj.Up2Date
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.exe
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.pdb
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.Migrations.InitialCreate.resources
+C:\Users\STUDENTS-1212-2\Desktop\Nikol11d\Kurier\Kurier\obj\Debug\Kurier.Migrations.InitialMigration.resources
